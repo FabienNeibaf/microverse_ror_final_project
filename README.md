@@ -39,13 +39,16 @@ Follow the instruction given here if you encounter difficulty during installatio
 
 The project is hosted on heroku. So go there and have fun. (_https://earthdiary.herokuapp.com_)
 
+# Contribute
+Feel free to contact me if you want to contribute.
+
 # Authors
 
 - Fabien RAKOTOMAMPIANDRA _https://github.com/FabienNeibaf_
 - Mael FOSSO _https://github.com/maelfosso_
 
 # Follow me
-- [Email](fabienrakotomampiandra@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fabien-rakotomampiandra-96567b17b/)
 - [AngelList](https://angel.co/fabien-rakotomampiandra)
 - [Twitter](https://twitter.com/Neibaflintone)
+- [Portfolio](https://fabienneibaf.github.io/Portfolio/)

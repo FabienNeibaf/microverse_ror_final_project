@@ -1,13 +1,14 @@
 # Final Project
 
-This project brings all the core functionnality of rails framework into practice through a basic implementation of Facebook webapp.
-It is part of [Microverse](https://www.microverse.org/) curriculum.
+A Facebook-like social network. Users can create, like, and comment on posts. Users can also add/remove friends, and receive notifications for updates.
 
 ![Earthdiary](https://github.com/FabienNeibaf/Portfolio/blob/master/src/images/Earthdiary.png)
-# Authors
 
-- Fabien RAKOTOMAMPIANDRA _https://github.com/FabienNeibaf_
-- Mael FOSSO _https://github.com/maelfosso_
+# Technologies
+- Ruby on Rails
+- Javascript
+- JQuery
+- PostgreSQL
 
 # Installation
 
@@ -37,3 +38,14 @@ Follow the instruction given here if you encounter difficulty during installatio
 # Live demo
 
 The project is hosted on heroku. So go there and have fun. (_https://earthdiary.herokuapp.com_)
+
+# Authors
+
+- Fabien RAKOTOMAMPIANDRA _https://github.com/FabienNeibaf_
+- Mael FOSSO _https://github.com/maelfosso_
+
+# Follow me
+- [Email](fabienrakotomampiandra@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/fabien-rakotomampiandra-96567b17b/)
+- [AngelList](https://angel.co/fabien-rakotomampiandra)
+- [Twitter](https://twitter.com/Neibaflintone)

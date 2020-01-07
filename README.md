@@ -10,7 +10,7 @@ A Facebook-like social network. Users can create, like, and comment on posts. Us
 - JQuery
 - PostgreSQL
 
-# Installation
+# :electric_plug: Installation
 
 1. Install **PostgreSQL**. Follow that [link](https://www.2ndquadrant.com/en/blog/pginstaller-install-postgresql/) or that [one](https://hostadvice.com/how-to/how-to-install-postgresql-database-server-on-ubuntu-18-04/)
 2. If you're using Ubuntu, you still need to run these two commands to avoid some errors
@@ -35,11 +35,11 @@ The integration test is done via _capybara-webkit_. In order to run the test ins
 :gem: When running **bundle install** _capybara-webkit_ gem will require some native extensions like Qt and others.  
 Follow the instruction given here if you encounter difficulty during installation: _https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit_.
 
-# Live demo
+# :computer: Live demo
 
 The project is hosted on heroku. So go there and have fun. (_https://earthdiary.herokuapp.com_)
 
-# Contribute
+# :pencil2: Contribute
 Feel free to contact me if you want to contribute.
 
 # Authors
